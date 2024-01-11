@@ -76,9 +76,7 @@ If you'd like to contribute to this project, please follow the [Contributing Gui
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
-Please note that the structure and content of your README may vary based on your project's specific needs and details. Customize the information to suit your application.
 
 
 
