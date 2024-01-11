@@ -1,4 +1,3 @@
-```markdown
 # Apartment Reservation System
 
 This project is a simple console-based apartment reservation system that allows users to add reservations, search for reservations, and view all reservations. The system utilizes a MySQL database for data persistence.
